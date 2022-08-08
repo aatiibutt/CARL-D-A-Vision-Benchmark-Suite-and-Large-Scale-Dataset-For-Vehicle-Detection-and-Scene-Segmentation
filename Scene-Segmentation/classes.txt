@@ -1,0 +1,44 @@
+    (135, 206, 236), # Sky 
+    (166, 227, 27), # Bridge
+    (74, 194, 154), # Building
+    (163, 46, 18), # Wall
+    (30, 73, 204), # Column_Pole
+    (251, 116, 77), # TrafficCone
+    (132, 17, 209), # electric_pole
+    (78, 80, 199), # street light
+    (23, 125, 202), # trafic light
+    (119, 61, 128), # pavedRoad
+    (217, 112, 230), # unpaved_road
+    (212, 218, 30), # solid yellow line
+    (118, 103, 122), # pavement_Sidewalk
+    (225, 150, 119), # concrete_barrier
+    (155, 104, 41), # fence
+    (117, 82, 16), # police_vehicle  
+    (126, 165, 140), # constuction_vehicle
+    (169, 166, 90), # military_vehicle
+    (160, 237, 109), # firebrigade 
+    (74, 54, 62), # traditional truck
+    (178, 9, 55), # container truck
+    (200, 29, 177), # Hino_bus 
+    (240, 9, 145), # traditional bus
+    (255, 1, 77), # car
+    (200, 165, 38), # van 
+    (80, 216, 156), # mini_van
+    (92, 83, 219), # rickshaw
+    (253, 57, 87), # cart 
+    (82, 35, 4), # pickup
+    (196, 4, 86), # mini-pickup
+    (163, 176, 81), # tanker 
+    (82, 43, 112), # Ambulance
+    (192, 99, 99), # motor_bike
+    (55, 88, 15), # Tree
+    (128, 222, 91), # VegetationMisc
+    (196, 138, 200), # Signboard
+    (240, 146, 5), # speedlimit
+    (211, 203, 50), # Ad
+    (181, 113, 130), # Directionboard
+    (97, 132, 151), # distanceboard
+    (167, 46, 47), # Pedestrian
+    (120, 114, 104), # mountains
+    (1, 37, 3), # grassy_road_divider
+    (252, 2, 2), # bicycle
